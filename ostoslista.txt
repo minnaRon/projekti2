@@ -4,3 +4,4 @@ tänne
 kauppalistaa
 ja
 muuta
+lisätään Merge tehtävän yksi tuote lisää paikallisesti
