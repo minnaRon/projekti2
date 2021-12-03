@@ -1,7 +1,10 @@
-paljon
+Merge tehtävän ekan rivin muokkausta GitHubissa.. paljon
 rivejä
 tänne
 kauppalistaa
 ja
 muuta
+<<<<<<< HEAD
 lisätään Merge tehtävän yksi tuote lisää paikallisesti
+=======
+>>>>>>> 9e4e662d27ee10939c1d6496daede347f8d75a96
